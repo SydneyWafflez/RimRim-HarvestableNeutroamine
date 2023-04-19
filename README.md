@@ -25,9 +25,11 @@ Discord: https://discord.gg/cFfgeGNVpU
 
 
 -=-= Important Badges =-=-
+
 [![forthebadge](https://urbansloth.games/SeaDeeN/rimworld-v-1.4.svg)](https://hi-im.sydney) [![forthebadge](https://urbansloth.games/SeaDeeN/save-game-compatible.svg)](https://hi-im.sydney)
 
 
 
 -=-= Other Badges =-=-
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com) [![forthebadge](https://urbansloth.games/SeaDeeN/works-on-my-machine.svg)](https://hi-im.sydney) [![forthebadge](https://urbansloth.games/SeaDeeN/made-for-rimrim.svg)](https://hi-im.sydney)
