@@ -17,10 +17,15 @@ We are proud to eradicate those things and more! Reach out to us via Discord and
 
 
 -=-= Links! =-=-
+
 Mod Creator: eth0net (https://github.com/eth0net)
+
 Mod... Owner(?): Sydney (https://hi-im.sydney)
+
 GitHub: YOU ARE HERE ⭐
+
 Discord: https://discord.gg/cFfgeGNVpU
+
 
 
 
